@@ -1,6 +1,6 @@
 # Async_sort_files
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=F70000&width=435&lines=V_H_V)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=F70000&center=true&width=435&lines=V.H.V)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+Black&pause=1000&color=20F741&center=true&width=435&lines=Async_sort_files)](https://git.io/typing-svg)
 <div>
 <p>Програма дозволяє впорядкувати файли у вказаному кореневому каталозі за їх розширенням. 
